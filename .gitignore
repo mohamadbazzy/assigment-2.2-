@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+env/
+venv/
+.env
+
+# Model files
+*.pt
+*.bin
+
+# IDE
+.vscode/
+.idea/
